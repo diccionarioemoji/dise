@@ -1,0 +1,2 @@
+# dise
+Diccionario Social Emoji
